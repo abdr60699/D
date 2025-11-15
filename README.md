@@ -1,6 +1,6 @@
-# MyWebsite - Modern User-Friendly Website
+# Stellar - Modern User-Friendly Web App
 
-A modern, responsive, and accessible website built with HTML, CSS, and JavaScript.
+A modern, responsive, and accessible web application built with HTML, CSS, and JavaScript. Stellar delivers an exceptional user experience with beautiful design and powerful functionality.
 
 ## Features
 
